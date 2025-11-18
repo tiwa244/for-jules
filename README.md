@@ -4,3 +4,5 @@
 # CREDIT
 - Lead AI @jules
 - Script Fixes @me
+# Original 
+https://github.com/PranshulGG/WeatherMaster
